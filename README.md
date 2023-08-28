@@ -10,4 +10,4 @@ Site para demonstrar meu currículo pessoal, onde está exposto sobre mim, habil
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
 ### Screenshot
-![Layout Foto](https://github.com/CarlosAliSchutz/Curriculo-pessoal/blob/main/src/img/Screenshot.jpg)
+![Layout Foto](https://github.com/CarlosAliSchutz/Curriculo-pessoal/blob/main/src/img/Screenshot-projeto.jpg)
